@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: Verdana;
-    color: #161616;
+    color: #1b1b1b;
   }
   
   body {
@@ -86,7 +86,7 @@
   
   #cancel-edit-btn {
     margin-top: 1rem;
-    color: #444;
+    color: #ffffff;
   }
   
   /* Todo Toolbar */
@@ -155,4 +155,7 @@
     color: #ffffff;
     text-decoration: line-through;
     font-style: italic;
+  }
+  h1,p,h4{
+    color: #858585;
   }
